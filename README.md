@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Kuldeep  
+💻 Self-taught JavaScript Developer  
+🚀 Working on fun web projects  
+🎯 Goal: Become a Web3 Developer  
 
-<!--
-**kuldeep-dev-stack/kuldeep-dev-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- JavaScript
+- HTML, CSS
+- API Integration
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuldeep-dev-stack&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- Email: rajputkuldeep62@gmail.com
